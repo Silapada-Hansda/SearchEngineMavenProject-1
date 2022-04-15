@@ -5,7 +5,7 @@
 3. From the target directory(to create index): java -jar SearchEngineProject-1.0-SNAPSHOT.jar createindex
 4. From the target directory(to search args[topicQuery, top n]): java -jar SearchEngineProject-1.0-SNAPSHOT.jar 3 10
 
-#Reference:
+# Reference:
 
 [1] https://lucene.apache.org/core/9_1_0/index.html <br>
 [2] https://trec.nist.gov/data/clinical2015.html <br>
