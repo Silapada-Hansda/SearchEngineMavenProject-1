@@ -8,5 +8,5 @@
 #Reference:
 
 [1] https://lucene.apache.org/core/9_1_0/index.html <br>
-[2] https://trec.nist.gov/data/clinical2015.html
+[2] https://trec.nist.gov/data/clinical2015.html <br>
 [3] http://www.trec-cds.org/
